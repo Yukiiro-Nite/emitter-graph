@@ -1,5 +1,5 @@
 {
-  "name": "emitting-graph",
+  "name": "emitter-graph",
   "version": "1.0.0",
   "description": "A graphlib Graph wrapped in an EventEmitter",
   "main": "index.js",
